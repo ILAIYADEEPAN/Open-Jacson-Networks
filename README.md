@@ -1,4 +1,4 @@
-![OUTPUT EX 06](https://github.com/user-attachments/assets/aa20d263-085e-41b7-9f11-a583cbf0e949)# Series Queues with infinite capacity - Open Jackson Network
+# Series Queues with infinite capacity - Open Jackson Network
 ## Name ILAIYADEEPAN K
 ## Reg.No. 212223230080
 ## Aim :
